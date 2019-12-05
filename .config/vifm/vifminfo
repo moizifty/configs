@@ -1,0 +1,154 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/moiz/
+	..
+1575495406
+'b
+	/home/moiz/bin/
+	..
+1575495406
+'h
+	/home/moiz/
+	..
+1575495406
+'z
+	/home/moiz/.config/vifm
+	..
+1575495406
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/moiz
+	Downloads
+20
+d/home/moiz/Downloads
+	..
+0
+d/home/moiz
+	.config
+2
+d/home/moiz/.config
+	..
+0
+d/home/moiz
+	.config
+2
+d/home/moiz/.config
+	vifm
+30
+d/home/moiz
+	.config
+2
+d/home/moiz/.config
+	..
+0
+d/home/moiz
+	Suckless
+19
+d/home/moiz/Suckless
+	sts
+3
+d/home/moiz/Suckless/sts
+	..
+0
+d/home/moiz/Suckless
+	..
+0
+d/home/moiz
+	Downloads
+19
+d/home/moiz/Downloads
+	..
+0
+d/home/moiz
+	Pictures
+15
+d/home/moiz/Pictures
+	..
+0
+d/home/moiz
+	Downloads
+12
+d/home/moiz/Downloads
+	Zathura-Pywal
+1
+d/home/moiz/Downloads/Zathura-Pywal
+	..
+0
+d/home/moiz/Downloads
+	..
+0
+d/home/moiz
+	Pictures
+15
+d/home/moiz/Pictures
+	..
+0
+d/home/moiz
+	Downloads
+12
+d/home/moiz/Downloads
+	..
+0
+d/home/moiz
+	Pictures
+15
+d/home/moiz/Pictures
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/home/moiz
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:col
+:cl
+:syz
+:xyz
+:xyz?
+:set xyz?
+:let
+:let xyz
+:let xyz = $COLOR
+:&yz
+:&xyz
+:help statusline
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0

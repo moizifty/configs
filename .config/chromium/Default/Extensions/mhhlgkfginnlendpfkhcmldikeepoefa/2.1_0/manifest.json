@@ -1,0 +1,26 @@
+{
+   "description": "Black & White: a timeless combination",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhDjRORjA8CohZZOJqYS9RBFODOp4G0Q631n2qV94Se/CfIKNEgzwPWgCEeM7MVtuFX1+uFWzLZOdaWphxOEtbZv/hKph/NVl/iIyBnhRaKnS8jVKaXQTfwb6pvcrYAyecFwhfdkA9IzscJNYgeAlnEDeL+In+NXJlTGFXDN4aylD9iVAX6M8LiS5btZHrYcE2Tn4+m1qre6+Ze2WgRZK6Bl/Zv7/a//VpDW05EU0193sZ06IBGjc9g2HSohl9osv5RgL22/zCndis/IQvCt7nFFSvRVY9HhTxyzUsQEJgU3UxkRAF9lqgeHNIBMadaJmpHNMfNN+fShev4jsXF0BNQIDAQAB",
+   "manifest_version": 2,
+   "name": "Black & White",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "button_background": [ 0, 0, 0 ],
+         "frame": [ 0, 0, 0 ],
+         "ntp_background": [ 0, 0, 0 ],
+         "ntp_text": [ 154, 160, 166 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 255, 255, 255 ]
+      },
+      "tints": {
+         "buttons": [ 0.9, 0, 0.5 ],
+         "frame_inactive": [ -1, -1, 0.6 ],
+         "frame_incognito": [ 0.1, 0, 0.7 ],
+         "frame_incognito_inactive": [ 0.1, 0, 0.7 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1"
+}

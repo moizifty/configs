@@ -1,0 +1,5 @@
+2019/12/04-17:12:13.199 3405 Reusing MANIFEST /home/moiz/.config/chromium/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/12/04-17:12:13.344 34d3 Level-0 table #5: started
+2019/12/04-17:12:13.377 34d3 Level-0 table #5: 545 bytes OK
+2019/12/04-17:12:13.419 34d3 Delete type=0 #3
+2019/12/04-17:12:13.420 34d3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

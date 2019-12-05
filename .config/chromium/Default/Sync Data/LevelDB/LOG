@@ -1,0 +1,6 @@
+2019/12/05-15:01:51.411 53b Reusing MANIFEST /home/moiz/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/12/05-15:01:51.411 53b Recovering log #216
+2019/12/05-15:01:51.412 53b Reusing old log /home/moiz/.config/chromium/Default/Sync Data/LevelDB/000216.log 
+2019/12/05-15:03:15.454 7ad Level-0 table #220: started
+2019/12/05-15:03:15.481 7ad Level-0 table #220: 108779 bytes OK
+2019/12/05-15:03:15.513 7ad Delete type=0 #216

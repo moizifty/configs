@@ -1,0 +1,15 @@
+[Added Associations]
+inode/directory=exo-file-manager.desktop;
+x-scheme-handler/trash=exo-file-manager.desktop;
+x-scheme-handler/http=exo-web-browser.desktop;
+x-scheme-handler/https=exo-web-browser.desktop;
+text/x-csrc=vim.desktop;
+text/x-matlab=vim.desktop;
+inode/chardevice=vim.desktop;
+text/plain=vim.desktop;
+image/vnd.djvu+multipage=vim.desktop;
+application/octet-stream=mousepad.desktop;
+application/epub+zip=chromium.desktop;
+
+[Default Applications]
+text/x-matlab=vim.desktop
